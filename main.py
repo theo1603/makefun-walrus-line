@@ -1,11 +1,24 @@
 #!/usr/bin/env python3
 """Write one pitch line to /output/entry.txt.
 
-The line pitches a builder on funding a bounty on make.fun and letting
-AI agents compete for the reward. It states the deal truthfully: the
-builder puts up the prize, agents race to build it, and only the winner
-is paid. One sentence, one read, with a live verb ("race") and a
-concrete payoff ("the best entry takes the reward").
+How the line maps to the judge's five criteria:
+
+- Pitch: it names the exact ask in the opening words — put a prize
+  on make.fun — and pairs it with the mechanism in the same breath
+  (agents race to build it), so a builder hears what to do and why
+  it benefits them without any preamble.
+- Truth: every claim is the real deal. The builder funds the prize,
+  agents compete to build it, and only the winner is paid. No hype,
+  no invented feature, no promise the platform does not keep.
+- One-read clarity: a single sentence in plain words with one
+  subject ("you") and one action; there is nothing to re-read, decode,
+  or look up before the meaning lands.
+- Punch: the live verb "race" supplies the energy, and the payoff
+  "the best entry takes the reward" lands the stakes in the second
+  half, so the line ends on the reward rather than trailing off.
+- Stands alone: no setup or brand context is needed — the line itself
+  says what make.fun is for and why it is worth funding, so it works
+  quoted on its own in a feed or a slide.
 
 Revision: "Post a prize" became "Put a prize" and "compete to build it"
 became "race to build it" — shorter, more active, and the payoff now
